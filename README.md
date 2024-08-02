@@ -12,7 +12,7 @@ The EIGNN model is trained and tested using the [GlassBench](https://doi.org/10.
 
 ## Reproduce the Results
 
-To facilitate the reproduction of the results of the EIGNN-cage model, we provide a Colab notebook. This notebook documents the entire process in detail, including data preprocessing, model initialization, and the training and testing procedures at a temperature of t=0.44. Here’s a summary of the process:
+To facilitate the reproduction of the results of the EIGNN-cage model, we provide a [Colab notebook](https://github.com/xjiang-hnu/EIGNN/blob/main/Training%20and%20Test%20with%20EIGNN_Cage.ipynb). This notebook documents the entire process in detail, including data preprocessing, model initialization, and the training and testing procedures at a temperature of t=0.44. Here’s a summary of the process:
 
 1. **Data Preprocessing**: The notebook describes the steps for cleaning, transforming, and preparing the raw data for model training.
 2. **Model Initialization**: It includes a detailed description of the model architecture, along with the hyperparameters and configurations used.
