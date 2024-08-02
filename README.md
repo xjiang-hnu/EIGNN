@@ -18,7 +18,7 @@ To facilitate the reproduction of the results of the EIGNN-cage model, we provid
 2. **Model Initialization**: It includes a detailed description of the model architecture, along with the hyperparameters and configurations used.
 3. **Training and Testing**: The notebook outlines the procedures for training the model at T=0.44, including the training loop, loss function, and evaluation metrics.
 ### Traing and Test Reuslts
-In this Colab notebook, the trainging and testing results are recorded. The finnal test reuslts of the EIGNN-cage model are:
+In this Colab notebook, the trainging and testing results are recorded in the output cells. You can check that the finnl test reuslts of the EIGNN-cage model are as follows:
 
 
 | T = 0.44 |  0.13   | 1.30     | 13.0    | 130     | 412    | 1300      | 4120     | 13 000      | 41 200      | 130 000    |
@@ -28,8 +28,10 @@ In this Colab notebook, the trainging and testing results are recorded. The finn
 ### Steps to Reproduce:
 
 1. **Downloaded the Raw Dataset**: Download the original dataset from GlassBench.  
-2. **Set the Path**: Open the provided Colab notebook and ensure all necessary dependencies are installed. Set the root path for the Raw dataset. Set the model path for the code.
+2. **Set the Path**: Open the provided Colab notebook and ensure all necessary dependencies are installed. Set the root path for the Raw dataset. Set the code path for the [model](https://github.com/xjiang-hnu/EIGNN/tree/main/model).
 3. **Load the Model Checkpoint**: Navigate to the section where the model checkpoint is loaded.
 4. **Run the Code**: Execute the provided code to load the provied trained model and run the testing code to verify the results.
 
+## Results in the paper 
 
+The results for Fig.3, Fi.4 and Fig.5 can be found in [Results floader](https://github.com/xjiang-hnu/EIGNN/tree/main/results).
