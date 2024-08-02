@@ -25,8 +25,4 @@ To facilitate the reproduction of the results of the EIGNN-cage model, we provid
 3. **Load the Model Checkpoint**: Navigate to the section where the model checkpoint is loaded.
 4. **Run the Code**: Execute the provided code to load the provied trained model and run the testing code to verify the results.
 
-By following these steps, you can easily reproduce the results and validate the outcomes of the study. This ensures transparency and reproducibility, allowing others to build upon this research.
 
----
-
-Let me know if this captures the details accurately or if you need further modifications.
