@@ -33,4 +33,4 @@ In this Colab notebook, the training and testing results are recorded in the out
 
 ## Results in the paper 
 
-The results for Fig.3, Fi.4 and Fig.5 can be found in [Results floader](https://github.com/xjiang-hnu/EIGNN/tree/main/results).
+The results for Fig.3, Fig.4 and Fig.5 can be found in [Results floader](https://github.com/xjiang-hnu/EIGNN/tree/main/results).
