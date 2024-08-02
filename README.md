@@ -20,7 +20,7 @@ To facilitate the reproduction of the results of the EIGNN-cage model, we provid
 
 ### Steps to Reproduce:
 
-1. **Downloaded the Raw Dataset**: Download this original dataset from GlassBench.  
+1. **Downloaded the Raw Dataset**: Download the original dataset from GlassBench.  
 2. **Set the Path**: Set the root path for the Raw dataset. Set the model path for the code.
 3. **Load the Model Checkpoint**: Open the provided Colab notebook and ensure all necessary dependencies are installed. Navigate to the section where the model checkpoint is loaded.
 4. **Run the Code**: Execute the provided code to load the provied trained model and run the testing code to verify the results.
