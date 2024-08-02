@@ -1,10 +1,10 @@
-Sure, here's an expanded and refined version of the text:
 
 ---
 
 # Enhancing Glassy Dynamics Prediction by Incorporating Displacement from Initial to Equilibrium States
 
 This repository contains the official implementation of the EIGNN model.
+---
 
 ## Raw Dataset
 
