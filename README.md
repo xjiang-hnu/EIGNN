@@ -8,7 +8,7 @@ This repository contains the official implementation of the EIGNN model.
 
 ## Raw Dataset
 
-The EIGNN model is trained and tested using the [GlassBench](https://doi.org/10.5281/zenodo.10118191) dataset, curated by G. Jung and presented in the [Roadmap on Machine Learning for Glassy Liquids](https://arxiv.org/abs/2311.14752). This dataset includes initial positions, inherent positions, and cage positions associated with each configuration. The initial positions are sourced from Shiba's [dataset](https://ipomoea-www.cc.u-tokyo.ac.jp/i29002/botan/public_dataset.tar.gz), which was introduced in the paper [BOTAN: BOnd TArgeting Network for Prediction of Slow Glassy Dynamics by Machine Learning Relative Motion](https://pubs.aip.org/aip/jcp/article/158/8/084503/2868947/BOTAN-BOnd-TArgeting-Network-for-prediction-of).
+The EIGNN model is trained and tested using the [GlassBench](https://doi.org/10.5281/zenodo.10118191) dataset, created by G. Jung and presented in the [Roadmap on Machine Learning for Glassy Liquids](https://arxiv.org/abs/2311.14752). This dataset includes initial positions, inherent positions, and cage positions associated with each configuration. The initial positions are sourced from Shiba's [dataset](https://ipomoea-www.cc.u-tokyo.ac.jp/i29002/botan/public_dataset.tar.gz), which was introduced in the paper [BOTAN: BOnd TArgeting Network for Prediction of Slow Glassy Dynamics by Machine Learning Relative Motion](https://pubs.aip.org/aip/jcp/article/158/8/084503/2868947/BOTAN-BOnd-TArgeting-Network-for-prediction-of).
 
 ## Reproduce the Results
 
