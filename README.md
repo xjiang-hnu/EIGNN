@@ -18,8 +18,7 @@ To facilitate the reproduction of the results of the EIGNN-cage model, we provid
 2. **Model Initialization**: It includes a detailed description of the model architecture, along with the hyperparameters and configurations used.
 3. **Training and Testing**: The notebook outlines the procedures for training the model at T=0.44, including the training loop, loss function, and evaluation metrics.
 ### Traing and Test Reuslts
-In this Colab notebook, the trainging and testing results are recorded in the output cells. You can check that the finnl test reuslts of the EIGNN-cage model are as follows:
-
+In this Colab notebook, the training and testing results are recorded in the output cells. You can check that the final test results of the EIGNN-cage model are as follows:
 
 | T = 0.44 |  0.13   | 1.30     | 13.0    | 130     | 412    | 1300      | 4120     | 13 000      | 41 200      | 130 000    |
 |----------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|--------------------|
